@@ -1,0 +1,17 @@
+[[users]]
+username = "17671341889"
+password = "xzh1999929xzh"
+access_key = ""
+cookie = ""
+csrf = ""
+uid = ""
+refresh_token = ""
+
+[[users]]
+username = "15871652910"
+password = "book1997"
+access_key = "b83daf4bd643a5c029cbf6775e941431"
+cookie = "bili_jct=9bf7cc2487c184792e3b35b3a111d29b;DedeUserID=19994701;DedeUserID__ckMd5=d7a60a7d3be27829;sid=b76q1te4;SESSDATA=bea21bc4%2C1586139343%2C96f2c931"
+csrf = "9bf7cc2487c184792e3b35b3a111d29b"
+uid = "19994701"
+refresh_token = "5ebf1302161a9dfd158dcdc3c880a131"
